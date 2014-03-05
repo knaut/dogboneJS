@@ -1,8 +1,6 @@
 dogboneJS
 =========
 
-Made for Vidcaster.
-
 An oversimplified Model-View library for client-side template fetching and rendering. Inspired by BackboneJS.
 
 # Models
